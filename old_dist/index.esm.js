@@ -408,7 +408,7 @@ var Icon$u = function (props) {
 
 var Icon$v = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("circle", { cx: "45", cy: "45", r: "45", fill: "#FAD08D" }),
+        React.createElement("circle", { cx: "45", cy: "45", r: "45", fill: "#E29100" }),
         React.createElement("defs", null,
             React.createElement("linearGradient", { id: "paint0_linear", x1: "45", y1: "0", x2: "45", y2: "90", gradientUnits: "userSpaceOnUse" },
                 React.createElement("stop", { stopColor: "#54DADE" }),
@@ -2147,15 +2147,19 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
+                label: "English",
+                href: "https://t.me/pancakeswap",
+            },
+            {
                 label: "Announcements",
-                href: "https://t.me/HoneyFinanceAnn",
+                href: "https://t.me/PancakeSwapAnn",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/honymakers",
+        href: "https://twitter.com/pancakeswap",
     },
 ];
 var MENU_HEIGHT = 64;
