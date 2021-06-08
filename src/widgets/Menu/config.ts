@@ -119,19 +119,15 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
-        href: "https://t.me/pancakeswap",
-      },
-      {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
+        href: "https://t.me/HoneyFinanceAnn",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/honymakers",
   },
 ];
 
